@@ -49,61 +49,18 @@ The output waveform is in phase with the input waveform.
 •	Practical values are close to theoretical values.
 ## Viva Questions
 1.	What is a Non-Inverting Amplifier?
-   A non-inverting amplifier is an op-amp configuration in which the input signal is applied to the non-inverting (+) terminal. The output signal is amplified without changing the phase of the input signal.
+   <img width="895" height="73" alt="image" src="https://github.com/user-attachments/assets/3435d6df-4aec-4cdd-98c2-fb327cd6f59c" />
+
 2.	What is the gain formula?
-	The voltage gain of a non-inverting amplifier is
+   <img width="696" height="167" alt="image" src="https://github.com/user-attachments/assets/6b1c216c-25c1-4b0d-87c1-5e60ccad62d1" />
 
-𝐴
-𝑣
-=
-1
-+
-𝑅
-𝑓
-𝑅
-1
-A
-v
-	​
-
-=1+
-R
-1
-	​
-
-R
-f
-	​
-
-	​
-
-
-where 
-𝑅
-𝑓
-R
-f
-	​
-
- is the feedback resistor and 
-𝑅
-1
-R
-1
-	​
-
- is the resistor connected to ground.
 3.	Why is output in phase?
-The input is applied to the non-inverting terminal, so the op-amp amplifies the signal without phase reversal. Hence, the output waveform remains in phase with the input.
-4.	What happens if Rf increases?
-If the feedback resistor 
-𝑅
-𝑓
-R
-f
-	​
+   <img width="963" height="62" alt="image" src="https://github.com/user-attachments/assets/557fab5c-eeea-46df-9144-df0d540e72b2" />
 
- increases, the voltage gain increases. Therefore, the output amplitude becomes larger.
+4.	What happens if Rf increases?
+   <img width="941" height="60" alt="image" src="https://github.com/user-attachments/assets/4e6eb611-649e-4c39-9744-c75fe71a7b82" />
+
 5.	What is the input impedance of non-inverting amplifier?
-The input impedance is very high because the signal is applied directly to the op-amp input terminal, resulting in very small input current.
+   <img width="892" height="57" alt="image" src="https://github.com/user-attachments/assets/104adf53-09c8-45c2-b537-795c9f4612c3" />
+
 
